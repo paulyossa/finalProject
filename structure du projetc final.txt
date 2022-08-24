@@ -1,0 +1,12 @@
+1- authentoification{
+-login(sign in)
+register(sign up)
+forgot password
+logout
+*create new Employee(fonctionnaliter gere par l'administrateur)
+edit(admin)
+delete(admin)
+
+*view employee info
+*logo
+*app name
