@@ -10,3 +10,10 @@ delete(admin)
 *view employee info
 *logo
 *app name
+
+
+
+**********aprs le setup
+-creation des routes
+-creation des vues
+-synchonisaton du backend
